@@ -3,7 +3,7 @@
 SELECT * FROM Property_information
 
 --2. Show only the CITY, PROVINCE, and PROPERTY_PRICE columns.
-
+SELECT CITY, PROVINCE, PROPERTY_PRICE FROM Property_information
 
 --3. List all distinct provinces in the table.
 
